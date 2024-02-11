@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "360506941627",
+    "project_id": "gyanith2ktwenty4",
+    "storage_bucket": "gyanith2ktwenty4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360506941627:android:d32dd1b3b8dca35e6c899e",
+        "android_client_info": {
+          "package_name": "com.nitpy.gyanith24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360506941627-8q6q1mqgl27kmlg9fsta13mum4otpha4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nitpy.gyanith24",
+            "certificate_hash": "a122d943231ac33d4fb39c472896a54fd5589b2f"
+          }
+        },
+        {
+          "client_id": "360506941627-1ndhe83d7p2jhoi0iikrbua0kpanfq7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxdyy7YAej0opJH11JTwRWy2gSRGNAhno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360506941627-1ndhe83d7p2jhoi0iikrbua0kpanfq7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
